@@ -4,7 +4,7 @@
 <h3 align="center">Aspiring Full Stack Developer | React.js | JavaScript | Node.js | AI/ML</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3C3489&center=true&vCenter=true&width=650&lines=Frontend+Developer;Full+Stack+Developer;React.js+Learner;Building+Projects+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3C3489&center=true&vCenter=true&width=650&lines=Web+Developer;Full+Stack+Developer;React.js;Building+Projects+Every+Day" alt="Typing SVG" />
 </p>
 
 <p align="center">
