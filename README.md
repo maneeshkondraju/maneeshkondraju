@@ -1,190 +1,106 @@
-\<!-- ========== HEADER ========== -->
 
-\<div align="center">
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:101828,50:064E3B,100:0F766E&height=190&section=header&text=Maneesh%20Kondraju&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%7C%20REACT%20%7C%20NODE.JS%20%7C%20AI%2FML&descSize=15&descAlignY=68&descColor=CCFBF1)
 
-\<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:101828,50:064E3B,100:0F766E&height=190&section=header&text=Maneesh%20Kondraju&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%7C%20REACT%20%7C%20NODE.JS%20%7C%20AI%2FML&descSize=15&descAlignY=68&descColor=CCFBF1](https://capsule-render.vercel.app/api?type=rect\&color=0:101828,50:064E3B,100:0F766E\&height=190\&section=header\&text=Maneesh%20Kondraju\&fontSize=48\&fontColor=FFFFFF\&fontAlignY=42\&desc=FULL%20STACK%20DEVELOPER%20%7C%20REACT%20%7C%20NODE.JS%20%7C%20AI%2FML\&descSize=15\&descAlignY=68\&descColor=CCFBF1)" width="100%" />
-
-\<br/>
-
-\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;Exploring+React.js+and+Full+Stack+Development;Turning+Ideas+Into+Projects;Learning+Something+New+Every+Day](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=19\&duration=3000\&pause=1000\&color=34D399\&center=true\&vCenter=true\&width=600\&lines=Building+Modern+Web+Applications;Exploring+React.js+and+Full+Stack+Development;Turning+Ideas+Into+Projects;Learning+Something+New+Every+Day)" />
-
-\</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;Exploring+React.js+and+Full+Stack+Development;Turning+Ideas+Into+Projects;Learning+Something+New+Every+Day)
 
 ---
 
 ## 👨‍💻 About Me
 
-\<table>
-\<tr>
-\<td width="65%" valign="top">
-
-### Hello, I'm Maneesh!
+### Hello, I'm Maneesh Kondraju!
 
 I'm a Computer Science and Engineering graduate specializing in Artificial Intelligence and Machine Learning.
 
-I'm interested in developing modern web applications and building practical solutions using frontend and backend technologies.
-
-- 💻 Interested in Full Stack Development
-- ⚡ Working with JavaScript, Node.js and Express.js
-- 🤖 Exploring AI/ML-based applications
-- 🎯 Focused on building real-world projects and improving my development skills
-
-\</td>
-\<td width="35%" align="center" valign="middle">
-
-\<img src="[https://github-readme-stats.vercel.app/api?username=maneeshkondraju&show_icons=true&hide_border=true&bg_color=101828&title_color=34D399&icon_color=2DD4BF&text_color=E5E7EB](https://github-readme-stats.vercel.app/api?username=maneeshkondraju\&show_icons=true\&hide_border=true\&bg_color=101828\&title_color=34D399\&icon_color=2DD4BF\&text_color=E5E7EB)" width="100%" />
-
-\</td>
-\</tr>
-\</table>
+- 🎓 B.Tech in Computer Science and Engineering (AIML).
+- 💻 Interested in Frontend and Full Stack Development.
+- ⚛️ Learning React.js.
+- 🚀 Working with JavaScript, Node.js, Express.js and MongoDB.
+- 🤖 Interested in AI/ML applications.
+- 🎯 Building real-world projects and improving my development skills.
 
 ---
 
 ## ⚙️ Technology Stack
 
-### Frontend Development
+**Frontend Development**
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=html,css,js,react&theme=dark](https://skillicons.dev/icons?i=html,css,js,react\&theme=dark)" />
-\</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Backend Development
+**Backend Development**
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=nodejs,express&theme=dark](https://skillicons.dev/icons?i=nodejs,express\&theme=dark)" />
-\</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Databases
+**Databases**
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=mysql,mongodb&theme=dark](https://skillicons.dev/icons?i=mysql,mongodb\&theme=dark)" />
-\</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
-### Development Tools
+**Tools & Version Control**
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=vscode,git,github,eclipse&theme=dark](https://skillicons.dev/icons?i=vscode,git,github,eclipse\&theme=dark)" />
-\</p>
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
-### AI-Assisted Development
+**AI-Assisted Development**
 
-\<p>
-\<img src="[https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square\&logo=openai\&logoColor=white)" />
-\<img src="[https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square\&logo=githubcopilot\&logoColor=white)" />
-\<img src="[https://img.shields.io/badge/Cursor-202020?style=flat-square&logo=cursor&logoColor=white](https://img.shields.io/badge/Cursor-202020?style=flat-square\&logo=cursor\&logoColor=white)" />
-\</p>
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-202020?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-\<table>
-\<tr>
-\<td width="50%" valign="top">
-
 ### 🏥 Multiple Disease Prediction
 
 **Machine Learning Based Application**
 
-An ML-based system that predicts multiple diseases using patient health information.
-
-**Key Features**
-
-- Patient health data analysis
-- Medical history and symptom processing
-- Diabetes prediction
-- Cardiovascular disease prediction
-- Comorbidity-focused prediction
-
-**Technologies**
-
-`HTML` `CSS` `JavaScript` `Python` `Flask` `SQL`
-
-\</td>
-\<td width="50%" valign="top">
+- Developed an ML-based system to predict multiple diseases using patient health information.
+- Processed medical history, demographics, symptoms and test results.
+- Focused on Diabetes and Cardiovascular Disease prediction.
+- **Technologies:** HTML, CSS, JavaScript, Python, Flask, SQL.
 
 ### 💼 Job and Internship Portal
 
 **Full Stack MERN Application**
 
-A web-based platform connecting job seekers and recruiters.
-
-**Key Features**
-
-- JWT-secured authentication
-- Role-based access control
-- REST API and CRUD operations
-- Automated email notifications
-- Role-specific dashboards
-- Application status tracking
-
-**Technologies**
-
-`React.js` `Node.js` `Express.js` `MongoDB` `JWT`
-
-\</td>
-\</tr>
-\</table>
+- Developed a web-based platform connecting job seekers and recruiters.
+- Implemented JWT-secured authentication and role-based access control.
+- Built REST APIs and CRUD operations for jobs and applications.
+- Integrated Nodemailer for automated email notifications.
+- Created role-specific dashboards for application tracking.
+- **Technologies:** React.js, Node.js, Express.js, MongoDB.
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-\<table>
-\<tr>
-\<td width="50%" valign="top">
-
-### 🥇 Achievements
-
-- 🥈 **2nd Runner-Up** – IBM ICE Day Hackathon (24-hour Hackathon), October 2023.
-- 🎖️ **NCC 'C' Certificate Holder** – Army Wing.
-
-\</td>
-\<td width="50%" valign="top">
-
-### 📜 Certifications
-
-- Node.js and Express – Udemy.
-- Java Programming – GeeksforGeeks.
-
-\</td>
-\</tr>
-\</table>
+| Achievements | Certifications |
+|---|---|
+| 🥈 2nd Runner-Up – IBM ICE Day Hackathon (24-hour), October 2023 | 📜 Node.js and Express – Udemy |
+| 🎖️ NCC 'C' Certificate – Army Wing | 📜 Java Programming – GeeksforGeeks |
 
 ---
 
-## 📈 GitHub Analytics
 
-\<div align="center">
-
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=maneeshkondraju&show_icons=true&hide_border=true&bg_color=101828&title_color=34D399&icon_color=2DD4BF&text_color=E5E7EB](https://github-readme-stats.vercel.app/api?username=maneeshkondraju\&show_icons=true\&hide_border=true\&bg_color=101828\&title_color=34D399\&icon_color=2DD4BF\&text_color=E5E7EB)" />
-
-\<img width="49%" src="[https://github-readme-streak-stats.herokuapp.com/?user=maneeshkondraju&theme=dark&hide_border=true&background=101828&ring=34D399&fire=2DD4BF&currStreakLabel=34D399](https://github-readme-streak-stats.herokuapp.com/?user=maneeshkondraju\&theme=dark\&hide_border=true\&background=101828\&ring=34D399\&fire=2DD4BF\&currStreakLabel=34D399)" />
-
-\<br/>\<br/>
-
-\<img width="45%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=maneeshkondraju&layout=compact&hide_border=true&bg_color=101828&title_color=34D399&text_color=E5E7EB](https://github-readme-stats.vercel.app/api/top-langs/?username=maneeshkondraju\&layout=compact\&hide_border=true\&bg_color=101828\&title_color=34D399\&text_color=E5E7EB)" />
-
-\</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maneeshkondraju&layout=compact&hide_border=true&bg_color=101828&title_color=34D399&text_color=E5E7EB)
 
 ---
 
 ## 🤝 Let's Connect
 
-\<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kondraju-maneesh-3611492b5/)
 
-\<a href="[https://www.linkedin.com/in/kondraju-maneesh-3611492b5/](https://www.linkedin.com/in/kondraju-maneesh-3611492b5/)">
-\<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />
-\</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maneeshkondraju)
 
-\<a href="[https://github.com/maneeshkondraju](https://github.com/maneeshkondraju)">
-\<img src="[https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-\</a>
+---
 
-\<br/>\<br/>
+### 💡 Code. Learn. Build. Repeat.
 
-**"Code. Learn. Build. Repeat."**
-
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:064E3B,100:101828&height=110&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:0F766E,50:064E3B,100:101828\&height=110\&section=footer)" width="100%" />
-
-\</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:064E3B,100:101828&height=110&section=footer)
